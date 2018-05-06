@@ -78,5 +78,6 @@ footer {
 
 /* STRUCTURE */
 .col-1 {
-
+	width: 236px;
+	height: 155px;
 }
