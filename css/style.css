@@ -59,6 +59,10 @@ p {
 	text-decoration: underline;
 }
 
+#press-logos {
+	width: 100%;
+}
+
 .logo-border {
 	border: 4px solid rgb(204,204,204)
 }
@@ -74,5 +78,5 @@ footer {
 
 /* STRUCTURE */
 .col-1 {
-	
+
 }
